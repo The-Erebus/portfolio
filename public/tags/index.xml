@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on N. Erebus</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on N. Erebus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 N. Erebus</copyright>
+    <lastBuildDate>Wed, 15 Jul 2026 20:49:36 -0300</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Flash-Fiction</title>
+      <link>https://example.org/tags/flash-fiction/</link>
+      <pubDate>Wed, 15 Jul 2026 20:49:36 -0300</pubDate>
+      
+      <guid>https://example.org/tags/flash-fiction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Horror</title>
+      <link>https://example.org/tags/horror/</link>
+      <pubDate>Wed, 15 Jul 2026 20:49:36 -0300</pubDate>
+      
+      <guid>https://example.org/tags/horror/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Erebus</title>
+    <link>https://example.org/</link>
+    <description>Recent content on N. Erebus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 N. Erebus</copyright>
+    <lastBuildDate>Wed, 15 Jul 2026 21:08:12 -0300</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spin With Me at the Edge of the Universe</title>
+      <link>https://example.org/games/spin-with-me-at-the-edge-of-the-universe/</link>
+      <pubDate>Wed, 15 Jul 2026 21:08:12 -0300</pubDate>
+      
+      <guid>https://example.org/games/spin-with-me-at-the-edge-of-the-universe/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/spin-with-me-at-the-edge-of-the-universe/featured.png" />
+    </item>
+    
+    <item>
+      <title>What Their Eyes Cannot See</title>
+      <link>https://example.org/games/what-their-eyes-cannot-see/</link>
+      <pubDate>Wed, 15 Jul 2026 21:07:38 -0300</pubDate>
+      
+      <guid>https://example.org/games/what-their-eyes-cannot-see/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/what-their-eyes-cannot-see/featured.png" />
+    </item>
+    
+    <item>
+      <title>Rats in the Basement</title>
+      <link>https://example.org/games/rats-in-the-basement/</link>
+      <pubDate>Wed, 15 Jul 2026 21:07:08 -0300</pubDate>
+      
+      <guid>https://example.org/games/rats-in-the-basement/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/rats-in-the-basement/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Unremarkable Life of Johnny Mann</title>
+      <link>https://example.org/writing/the-unremarkable-life-of-johnny-mann/</link>
+      <pubDate>Wed, 15 Jul 2026 20:55:16 -0300</pubDate>
+      
+      <guid>https://example.org/writing/the-unremarkable-life-of-johnny-mann/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>I Don&#39;t Like Your Eyes</title>
+      <link>https://example.org/writing/i-dont-like-your-eyes/</link>
+      <pubDate>Wed, 15 Jul 2026 20:49:36 -0300</pubDate>
+      
+      <guid>https://example.org/writing/i-dont-like-your-eyes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Cursed Sword</title>
+      <link>https://example.org/writing/the-cursed-sword/</link>
+      <pubDate>Wed, 15 Jul 2026 20:46:24 -0300</pubDate>
+      
+      <guid>https://example.org/writing/the-cursed-sword/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

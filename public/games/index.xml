@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on N. Erebus</title>
+    <link>https://example.org/games/</link>
+    <description>Recent content in Games on N. Erebus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 N. Erebus</copyright>
+    <lastBuildDate>Wed, 15 Jul 2026 21:08:12 -0300</lastBuildDate><atom:link href="https://example.org/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Spin With Me at the Edge of the Universe</title>
+      <link>https://example.org/games/spin-with-me-at-the-edge-of-the-universe/</link>
+      <pubDate>Wed, 15 Jul 2026 21:08:12 -0300</pubDate>
+      
+      <guid>https://example.org/games/spin-with-me-at-the-edge-of-the-universe/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/spin-with-me-at-the-edge-of-the-universe/featured.png" />
+    </item>
+    
+    <item>
+      <title>What Their Eyes Cannot See</title>
+      <link>https://example.org/games/what-their-eyes-cannot-see/</link>
+      <pubDate>Wed, 15 Jul 2026 21:07:38 -0300</pubDate>
+      
+      <guid>https://example.org/games/what-their-eyes-cannot-see/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/what-their-eyes-cannot-see/featured.png" />
+    </item>
+    
+    <item>
+      <title>Rats in the Basement</title>
+      <link>https://example.org/games/rats-in-the-basement/</link>
+      <pubDate>Wed, 15 Jul 2026 21:07:08 -0300</pubDate>
+      
+      <guid>https://example.org/games/rats-in-the-basement/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/rats-in-the-basement/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
