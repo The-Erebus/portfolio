@@ -1,0 +1,21 @@
+disabled = false
+locale = "pt-br"
+label = "Português (Brasil)"
+weight = 1
+title = "N. Erebus"
+
+[params]
+displayName = "PT-BR"
+isoCode = "pt-br"
+rtl = false
+dateFormat = "2 January 2006"
+
+[[params.author.links]]
+itch-io = "https://n-erebus.itch.io"
+bluesky = "https://bsky.app/profile/n-erebus.bsky.social"
+
+["params.author"]
+name = "N. Erebus"
+headline = "Roteirista e desenvolvedor de jogos."
+image = "portrait.png"
+bio = " "

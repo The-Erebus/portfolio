@@ -25,9 +25,9 @@ advertisement = { }
 showViews = false
 
 [languageRedirect]
-enabled = false
+enabled = true
 storageKey = "blowfish_preferred_language"
-browserRedirectHomeOnly = true
+browserRedirectHomeOnly = false
 storedLanguageRedirect = true
 
 [header]
