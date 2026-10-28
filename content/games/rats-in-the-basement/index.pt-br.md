@@ -9,15 +9,15 @@ Posição: Desenvolvedor solo <br>
 Tempo de gameplay: 15-25 minutos <br>
 Plataformas: Windows
 
-## Description
+## Descrição
 
-A short RPG adventure where you play as a newbie adventure ready for his first quest -- pest control. The quest, however, is not as simple as it seem as one of the clients is missing, and the other is an old man with bad memory.
+Um RPG de aventura curto onde você joga como um aventureiro recém-formado durante sua primeira missão: controle de pestes. Essa missão, no entanto, não é tão simples quanto o esperado. Um dos clientes desapareceu, e o outro é um velho senhor com problemas de memória.
 
-## Design Goals
+## Objetivos
 
-I wanted to take the simplest adventure premise for a quest I could think of and turn it into a an engaging interactive short story.
+Eu queria usar a premissa mais simples possível de aventura e deixa-la o mais interessante possível.
 
-## Media
+## Mídia
 
 {{< youtube id=g7WTjz048OY loading=lazy >}}
 {{< youtube id=KAM6paiKwTU loading=lazy >}}
@@ -28,4 +28,4 @@ I wanted to take the simplest adventure premise for a quest I could think of and
 
 ## Links
 
-[Play it here.](https://n-erebus.itch.io/rats-in-the-basement)
+[Link do jogo](https://n-erebus.itch.io/rats-in-the-basement)

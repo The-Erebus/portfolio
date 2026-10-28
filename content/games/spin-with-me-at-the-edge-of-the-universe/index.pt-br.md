@@ -9,19 +9,19 @@ Posição: Desenvolvedor solo <br>
 Tempo de gameplay: 10-15 minutos <br>
 Plataformas: Windows
 
-## Description
+## Descrição
 
-A surreal 3D first-person platformer inspired by FLCL, Twin Peaks, Alice in Wonderland, and a little bit of Radiohead. It follows a powerful child who must bring joy to the villagers of the Village at the Edge of the Universe, so that they can call up their dormant god to take them away.
+Um jogo surreal de plataforma em primeira pessoa inspirado em FLCL, Twin Peaks, Alice no País das Maravilhas e as músicas do Radiohead. Ele conta a história de uma criança que deve trazer alegria para os habitantes da Vila no Fim do Universo para que eles consigam chamar seu deus adormecido pare que ele os tirem de lá.
 
-## Design Goals
+## Objetivo
 
-This game was designed to be played and finished in one sitting while still sticking with the player long after they closed it. To do that, I tried to surprise the player on every section, making sure they could never guess what was coming next.
+Esse jogo foi feito para ser jogado em uma única jogatina e mesmo assim permanecer na memória do jogador por um bom tempo. Para isso, tentei surpreender o jogador em cada parte de maneira que ele não conseguisse prever o que iria acontecer em seguida.
 
-## Challenges
+## Desafios
 
-As with my last project, this was also for a game jam. I had eight days to build it, and planned my time accordingly with a buffer period in case something happened. And something did happen. I had a really bad migraine that cost me one day of potential progress. I considered removing one of the later platforming sections to focus on polishing the rest of the game, but after thinking really hard, I realized that removing it would diminish the effect of the ending because of the pacing. In the end, I choose to work really hard on the last few days to make sure that the section in question made the cut.
+Assim como meu projeto anterior, esse também foi feito para uma game jam. Eu tinha oito dias para termina-lo, e planejei meu tempo de acordo e com um tempo extra em caso de algo acontecesse. E algo aconteceu. Tive uma enxaqueca num dos dias finais que me custou um dia de progresso. Considerei remover uma seção de plataforma para poder focar em polír o resto do jogo, mas decidi que revomer essa parte iria diminuir o efeito do jogo e estragar o ritmo. Acabei optando por manter essa seção e expremer um pouco mais de tempo para polír tudo.
 
-## Media
+## Mídia
 
 ![](https://img.itch.zone/aW1hZ2UvNDcwNzQ4NC8yODE5MzM0MS5naWY=/original/IpXJFf.gif)
 ![](https://img.itch.zone/aW1hZ2UvNDcwNzQ4NC8yODEyNjQ3NS5wbmc=/original/CKtEXF.png)
@@ -29,4 +29,4 @@ As with my last project, this was also for a game jam. I had eight days to build
 
 ## Links
 
-[Play it here](https://n-erebus.itch.io/spin-with-me-at-the-edge-of-the-universe)
+[Link do jogo](https://n-erebus.itch.io/spin-with-me-at-the-edge-of-the-universe)

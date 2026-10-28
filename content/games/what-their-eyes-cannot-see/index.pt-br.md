@@ -5,26 +5,27 @@ title = 'O Que os Olhos Não Vêem'
 +++
 
 Engine: Godot 4 <br>
-Posição: Desenvolvedor solo [**](#challenges) <br>
+Posição: Desenvolvedor solo [**](#Desafios) <br>
 Tempo de gameplay: ~5 minutos <br>
 Plataformas: Navegador, Windows
 
-## Description
+## Descrição
 
-This game tells the story of a young boy named Marco and his obsession with attention. It uses gameplay, level design, and sound design to tell that story effectively in a way that matches the protagonist's personal journey. It was originally written in Brazilian Portuguese, but I later localized it to English.
+O jogo conta a história de um jovem garoto chamado Marco e sua obsessão por atenção. A gameplay, o design dos levels e o design de audio se conectam para representar a narrativa da melhor maneira possível.
 
-## Design Goals
+## Objetivos
 
-I wanted to connect narrative and gameplay to enhance the effect of both, creating something that is greater than the sum of its parts.
+Meu objetivo era conectar narrativa e gameplay de maneira que um elemento complementasse o outro.
 
-## Challenges
-This project was a game jam project, and I had two other people working with me at the start. They had to leave, however, due to personal reasons after the brainstorming phase, meaning I had to do everything else by myself. This meant reducing the scope, and changing the art style to something simpler while keeping the tone and effect intact.
+## Desafios
 
-## Media
+Esse projeto era inicialmente um projeto para uma game jam, e eu tinha duas pessoas trabalhando comigo. Infelizmente eles tiveram que abandonar o projeto após a fase de brainstorming, e eu tive que fazer essencialmente o jogo inteiro sozinho. Por causa disso, tive que reduzir bastante o escopo do jogo e mudar o estilo visual para algo mais simples mantendo o tom e o effeito da obra.
+
+## Mídia
 
 ![](https://img.itch.zone/aW1hZ2UvNDMzMDU2OC8yNTk2NDkxMS5wbmc=/original/eyNbsq.png)
 ![](https://img.itch.zone/aW1hZ2UvNDMzMDU2OC8yNTk2NDkxMi5wbmc=/original/Iabcmd.png)
 
 ## Links
 
-[Play it here](https://n-erebus.itch.io/o-que-os-olhos-nao-veem)
+[Link do jogo](https://n-erebus.itch.io/o-que-os-olhos-nao-veem)

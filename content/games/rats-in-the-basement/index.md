@@ -11,7 +11,7 @@ Platforms: Windows
 
 ## Description
 
-A short RPG adventure where you play as a newbie adventure ready for his first quest -- pest control. The quest, however, is not as simple as it seem as one of the clients is missing, and the other is an old man with bad memory.
+A short RPG adventure where you play as a newbie adventurer ready for his first quest -- pest control. The quest, however, is not as simple as it seem as one of the clients is missing, and the other is an old man with bad memory.
 
 ## Design Goals
 
