@@ -4,25 +4,32 @@ draft = false
 title = 'A Vida Medíocre de João Costa'
 +++
 
-Johnny was an unremarkable baby born at the age of zero to even more unremarkable parents. He learned to speak early and seemed very happy about it, his parents, not so much.
+João era um bebê qualquer nascido com zero anos de idade para pais ainda mais medíocres. Ele aprendeu a falar cedo e estava bem contente com isso, seus pais, nem tanto.
 
-Johnny spoke of space and aliens, of robots and spaceships. He asked all the question a child of his age should ask and a little bit more. His mother tried her best to answer, and invented what she couldn’t. His father didn’t bother. Johnny suspected that the adults didn’t know as much as he thought.
+João falava do espaço e de aliens, de naves e robôs. Perguntava tudo aquilo que ela esperado de uma criança de sua idade, e um pouco mais. Sua mãe até tentava responder, inventando o que não conseguia. Seu pai nem tentava. João passou a suspeitar que os adultos não sabiam de tudo.
 
-All that curiosity paid off in school. His grades were good, and the teachers spoke well of him. Maths and sciences were his favourites. He would ask the teachers many questions about space, and they would always answer with the same flat tone: “That won’t be on the test, so no need to bother you silly little head with that.”
+Toda essa curiosidade se tornou útil na escola. Suas notas eram boas, e os seus professores o elogiavam bastante. Matemática e ciências eram suas matérias favoritas. Muitas vezes, ele trazia suas curiosidades aos professores, perguntando sobre o espaço e as estrelas. A resposta, independente da pergunta, era sempre a mesma:
 
-At the age of 13, he met a girl. His grades dropped, but not by much. He wasn’t brave enough to confess, but the idea of seeing her was motivation enough to keep studying hard. Luckily for Johnny, the girl was into smart boys. She would be the one to make the move just before high school.
+“Não se preocupe, não vai cair na prova.”
 
-Graduation was in sight, and university life was next. But Johnny hadn’t decided on a career path yet. He had too many interests, how could he possibly choose one? “Choose an easy field that pays well, but just enough.” His father said. “Don’t dream too big. You’re smart. Only fools dream big.” During the final days before graduation, the school distributed pamphlets containing a list of career paths in alphabetical order with a heavy focus on how well they pay and how difficult they are to get into. His girlfriend chose journalism, and he chose the architecture because it was the first item of the list.
+Aos 13 anos, ele conheceu uma garota. Suas notas caíram, mas não muito. Ele não tinha coragem de confessar, mas a ideia de vê-la todo dia era motivação o suficiente para continuar estudando. Para a sorte de João, a garota gostava de garotos inteligentes. Foi ela que tomou iniciativa antes do ensino médio.
 
-Many years later, he had married his school sweetheart and had two children. He had a job that paid well, and he was decent at it. Not the best, but the most reliable. Most of the buildings in the big city were his, the small ones and the big ones. They all looked the same though. When colleagues questioned his style choice, he would always say: “I just do what the clients tell me to do.”
+A formatura estava chegando, vida universitária em seguida, mas João ainda não tinha decidido sua carreira. Ele tinha muitos interesses, e era difícil escolher um só.
 
-Middle age brought some bad news. Cancer, his doctor said, terminal, in fact. There was nothing he could do except to wait for the inevitable. He looked back to all his life achievements only to find a shelf with worthless awards and certificates. His friends and colleagues all became the best while he was only “reliable”.
+— Escolha uma area que pague bem. — Era o que seu pai sempre dizia. — Não sonhe alto. Você é inteligente, apenas idiotas sonham alto.
 
-One last client came to him before he closed up shop. Some rich businessman wanting a building as large as his ego. Johnny didn’t care about who he was, but was willing to do the job. He didn’t care much about anything at this point. He just wanted to make something good, and this was his last job. Johnny agreed saying: “I’ll make you a building that will touch the stars.”
+Durante os últimos dias antes da formatura, a escola distribuiu panfletos com uma lista das area profissionais mais populares em ordem alfabética, detalhando o salário esperado e o quão difícil a área é. Sua namorada escolheu jornalismo. Ele, pensando no que seu pai disse, escolheu o primeiro item da lista: arquitetura.
 
-That building would be known as “the star-scrapper”, and it was indeed his greatest work. His only good work some would say. But Johnny didn’t care. He had finally made something he was proud of, and that seemed to be enough for him.
+Anos depois, ele já estava casado com sua paixão de infância, e tinham dois filhos juntos. Tinha um emprego que pagava bem no qual ele era bom. Não o melhor, mas o mais confiável. Muitos dos prédios da cidade eram desenhos dele. Todos eram iguais. Quando os seus companheiros perguntavam o porquê, ele simplesmente dizia que estava fazendo o que o cliente pedia, nada mais.
 
-It was finally time to close down his office. He took all the important stuff in a cardboard box including the space themed miniatures he received from friends and family. As he left the building, he was amazed by how beautiful the full moon looked. And just to the right of it, silhouetted against the moonlight, was the star-scraper doing what it was made to do. Johnny looked at it one last time, and a tear escaped from his eye. The building looked just like a rocket ready to launch into the unknown.
+Com a idade, veio más notícias. Cancer, foi o que o médico disse, terminal. Não havia nada a fazer se não esperar pelo inevitável. Ele relembrou sua trajetória de vida, encontrando apenas uma estante preenchida com prêmios e certificados inúteis.
+
+Um último cliente veio até ele antes dele fechar o escritório. Um cara rico querendo um prédio do tamanho do seu ego. João não ligava para quem ele era, mas decidiu que esse último projeto seria o melhor de todos.
+
+— Te darei um prédio que tocará as estrelas. — João disse, apertando a mão de seu cliente.
+
+João pegou tudo aquilo que achava importante do seu escritório e colocou numa caixa. Saiu e trancou aquela porta pela última vez, a luz da lua iluminando a sala vazia. Ele olhou para o céu enquanto caminhava até seu carro, notando a lua cheia iluminando a um foguete pronto para explorar a imensidão do universo. Lágrimas escorreram pelo seu rosto quando ele percebeu que esse foguete era
+a silhueta do “Arranha Estrelas”.
 
 ---
 

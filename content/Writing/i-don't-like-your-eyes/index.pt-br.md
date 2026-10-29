@@ -5,22 +5,20 @@ title = "Eu Não Gosto Dos Teus Olhos"
 tags = ["flash-fiction", "horror" ]
 +++
 
-**Warning: This story contains very graphic depictions of gore and violence**
+**Atenção: Esse conto contém descrições gráficas de violência**
 
-“I don’t like your eyes”. The old man says before leaping on top of the boy. His knees become shackles for the kid’s arms. The boy screams and jerks trying to get out, but there’s no one around to hear him.
+— Eu não gosto dos teus olhos — o velho diz antes de pular em cima do garoto. Suas pernas entrelaçam os braços do garoto, que grita e se contrai tentando sair. Não há ninguém para ajudar.
 
-The old man brings his dirty fingers near the boy’s eyes, tapping it and using his crooked fingernails to gain purchase. Blood and tears cover the boy’s face.
+O velho leva suas unhas imundas aos olhos do garoto, cutucando e firmando seus dedos, sangue e lágrimas cobrindo o rosto da criança.
 
-“Help! Help! He’s pulling my eye out!” The boy screams, but no one is there to hear.
+— Socorro! Socorro! Ele está arrancando meu olho! — O garoto grita, e ninguém escuta.
 
-The right eye pops out of the skull, dangling only by the nerves. The man grins joyfully and uses his teeth to cut it off completely. The boy screams, and the old man screams back in his face.
+O olho direito pula do crânio do garoto, pendurado pelos nervos. O homem sorri e usa seus dentes para corta-lo. O garoto grita novamente, e o velho grita em resposta na sua cara.
 
-“Now to the other one.” The eyeball rolls over the grass.
+— Agora o outro. — O olho rola no gramado.
 
-The boy tries to fight back as much as he can, but the old man's strength is too much for him. He passes out from shock and pain. The man frows at the lack of resistance.
+O garoto tenta lutar o máximo possível, mas a força do velho é demais para ele. A criança desmaia devido ao choque e a dor, deixando o velho desapontado pela falta de resistência.
 
-“What are you doing to my baby!” Screams the woman on the distance.
+— O quê você está fazendo com meu filho! — grita a mulher na distância, o som como uma agulha nos ouvidos do velho.
 
-The sound of the mother’s shriek pierces the old man’s ear.
-
-He raises both of his bloody hands into the air and gets up slowly while shaking his head. Satisfied, he steps on the eye with his worker boots and walks away as if nothing had happened. The mother sprints towards her unconscious child while the man disappears into the forest.
+O velho levanta ambos os braços como se estivesse se entregando enquanto levanta devagar e sacudindo a cabeça. Satisfeito, piza no olho com sua bota e caminha para a floresta como se nada tivesse acontecido. A mãe corre até seu filho inconsciente, e o homem desaparece para nunca mais ser visto.

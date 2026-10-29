@@ -7,20 +7,18 @@ tags = ["flash-fiction", "horror" ]
 
 **Warning: This story contains very graphic depictions of gore and violence**
 
-“I don’t like your eyes”. The old man says before leaping on top of the boy. His knees become shackles for the kid’s arms. The boy screams and jerks trying to get out, but there’s no one around to hear him.
+“I don’t like your eyes”. The old man says before leaping on top of the boy. His knees trap the boy's arms, who screams and jerks trying to get out. No one is there to help him.
 
-The old man brings his dirty fingers near the boy’s eyes, tapping it and using his crooked fingernails to gain purchase. Blood and tears cover the boy’s face.
+The old man brings his dirty fingernails to the boy’s eyes, tapping it and trying to gain purchase, blood and tears covering the child's face.
 
-“Help! Help! He’s pulling my eye out!” The boy screams, but no one is there to hear.
+“Help! Help! He’s pulling my eye out!” The boy screams, and no one hears.
 
-The right eye pops out of the skull, dangling only by the nerves. The man grins joyfully and uses his teeth to cut it off completely. The boy screams, and the old man screams back in his face.
+The right eye pops out of the boy's skull, dangling by the nerves. The man grins and uses his teeth to cut it off. The boy screams again, and the old man screams back in his face.
 
-“Now to the other one.” The eyeball rolls over the grass.
+“Now the other one.” The eyeball rolls over the grass.
 
-The boy tries to fight back as much as he can, but the old man's strength is too much for him. He passes out from shock and pain. The man frows at the lack of resistance.
+The boy tries to fight back as much as he can, but the old man's strength is too much. He passes out from shock and pain, leaving the old man disappointed by the lack of resistance.
 
-“What are you doing to my baby!” Screams the woman on the distance.
+“What are you doing to my baby!” Screams the woman on the distance, the sound is like needles to the man's ears.
 
-The sound of the mother’s shriek pierces the old man’s ear.
-
-He raises both of his bloody hands into the air and gets up slowly while shaking his head. Satisfied, he steps on the eye with his worker boots and walks away as if nothing had happened. The mother sprints towards her unconscious child while the man disappears into the forest.
+He raises both of his hands into the air as if surrendering while getting up slowly and shaking his head. Satisfied, he steps on the eye with his boot and walks away towards the woods as if nothing had happened. The mother sprints towards her unconscious child, and the man vanishes never to be seen again.

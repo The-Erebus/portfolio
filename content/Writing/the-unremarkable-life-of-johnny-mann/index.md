@@ -6,20 +6,26 @@ title = 'The Unremarkable Life of Johnny Mann'
 
 Johnny was an unremarkable baby born at the age of zero to even more unremarkable parents. He learned to speak early and seemed very happy about it, his parents, not so much.
 
-Johnny spoke of space and aliens, of robots and spaceships. He asked all the question a child of his age should ask and a little bit more. His mother tried her best to answer, and invented what she couldn’t. His father didn’t bother. Johnny suspected that the adults didn’t know as much as he thought.
+Johnny spoke of space and aliens, of robots and spaceships. He asked all the question a child of his age should ask, and a little bit more. His mother tried her best to answer, inventing what she couldn’t. His father didn’t bother. Johnny started to suspect that the adults didn’t know everything.
 
-All that curiosity paid off in school. His grades were good, and the teachers spoke well of him. Maths and sciences were his favourites. He would ask the teachers many questions about space, and they would always answer with the same flat tone: “That won’t be on the test, so no need to bother you silly little head with that.”
+All that curiosity paid off in school. His grades were good, and the teachers spoke well of him. Maths and sciences were his favourites subjects. He would often bring questions to the teachers about space and the stars. The answer, regardless of the question, would always be the same:
 
-At the age of 13, he met a girl. His grades dropped, but not by much. He wasn’t brave enough to confess, but the idea of seeing her was motivation enough to keep studying hard. Luckily for Johnny, the girl was into smart boys. She would be the one to make the move just before high school.
+"No need to worry, that won't be on the test."
 
-Graduation was in sight, and university life was next. But Johnny hadn’t decided on a career path yet. He had too many interests, how could he possibly choose one? “Choose an easy field that pays well, but just enough.” His father said. “Don’t dream too big. You’re smart. Only fools dream big.” During the final days before graduation, the school distributed pamphlets containing a list of career paths in alphabetical order with a heavy focus on how well they pay and how difficult they are to get into. His girlfriend chose journalism, and he chose the architecture because it was the first item of the list.
+At the age of 13, he met a girl. His grades dropped, but not by much. He wasn’t brave enough to confess, but the idea of seeing her was motivation enough to keep studying hard. Luckily for Johnny, the girl was into smart boys. She was the one to make the move just before high school.
 
-Many years later, he had married his school sweetheart and had two children. He had a job that paid well, and he was decent at it. Not the best, but the most reliable. Most of the buildings in the big city were his, the small ones and the big ones. They all looked the same though. When colleagues questioned his style choice, he would always say: “I just do what the clients tell me to do.”
+Graduation was in sight, university life was next, but Johnny hadn’t decided on a career path yet. He had too many interests, and it was too hard to choose just one.
 
-Middle age brought some bad news. Cancer, his doctor said, terminal, in fact. There was nothing he could do except to wait for the inevitable. He looked back to all his life achievements only to find a shelf with worthless awards and certificates. His friends and colleagues all became the best while he was only “reliable”.
+“Choose an easy field that pays well.” That was what his father always said. “Don’t dream too big. You’re smart. Only fools dream big.”
 
-One last client came to him before he closed up shop. Some rich businessman wanting a building as large as his ego. Johnny didn’t care about who he was, but was willing to do the job. He didn’t care much about anything at this point. He just wanted to make something good, and this was his last job. Johnny agreed saying: “I’ll make you a building that will touch the stars.”
+During the final days before graduation, the school distributed pamphlets with a list of career paths in alphabetical order, detailing the expected salary and how difficult they are to get into. His girlfriend chose journalism. He chose, after thinking about what his father had said, the first item on the list: architecture.
 
-That building would be known as “the star-scrapper”, and it was indeed his greatest work. His only good work some would say. But Johnny didn’t care. He had finally made something he was proud of, and that seemed to be enough for him.
+Years later, he was married with his school sweetheart, and had two children together. He had a job that paid well, and he was decent at it. Not the best, but the most reliable. Many of the buildings in the big city were his. They all looked the same. When colleagues questioned his style choice, he would always say that he was doing what the client asked, nothing more.
 
-It was finally time to close down his office. He took all the important stuff in a cardboard box including the space themed miniatures he received from friends and family. As he left the building, he was amazed by how beautiful the full moon looked. And just to the right of it, silhouetted against the moonlight, was the star-scraper doing what it was made to do. Johnny looked at it one last time, and a tear escaped from his eye. The building looked just like a rocket ready to launch into the unknown.
+Middle age brought some bad news. Cancer, his doctor said, terminal. There was nothing he could do except to wait for the inevitable. He looked back to all his life achievements, finding only a shelf with worthless awards and certificates.
+
+One last client came to him before he closed up shop. Some rich businessman wanting a building the size of his ego. Johnny didn’t care about who he was, but he decided that this last project would be the best thing he had ever done.
+
+“I’ll make you a building that will touch the stars.” Johnny said, shaking his client's hands.
+
+Johnny grabbed all that he considered important in his office, placing it inside a cardboard box. He left and locked that door for the very last time, the moonlight illuminating the empty room. He looked up to the sky while walking towards his car, noticing the full moon illuminating a rocket ready to explore the vastness of the universe. Tears slid down his face when he realized that that rocket was the silhouette of his "Star Scraper".

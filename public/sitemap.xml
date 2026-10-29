@@ -1,69 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2026-07-15T21:08:12-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/games/</loc>
-    <lastmod>2026-07-15T21:08:12-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/games/spin-with-me-at-the-edge-of-the-universe/</loc>
-    <lastmod>2026-07-15T21:08:12-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/games/what-their-eyes-cannot-see/</loc>
-    <lastmod>2026-07-15T21:07:38-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/games/rats-in-the-basement/</loc>
-    <lastmod>2026-07-15T21:07:08-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/writing/the-unremarkable-life-of-johnny-mann/</loc>
-    <lastmod>2026-07-15T20:55:16-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/writing/</loc>
-    <lastmod>2026-07-15T20:55:16-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/writing/i-dont-like-your-eyes/</loc>
-    <lastmod>2026-07-15T20:49:36-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/writing/the-cursed-sword/</loc>
-    <lastmod>2026-07-15T20:46:24-03:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/contact/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://example.org/posts/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://example.org/en/sitemap.xml</loc>
+    
+      <lastmod>2026-07-15T21:08:12-03:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://example.org/pt-br/sitemap.xml</loc>
+    
+      <lastmod>2026-07-15T21:08:12-03:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

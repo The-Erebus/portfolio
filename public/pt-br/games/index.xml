@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on N. Erebus</title>
+    <link>https://example.org/pt-br/games/</link>
+    <description>Recent content in Games on N. Erebus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 N. Erebus</copyright>
+    <lastBuildDate>Wed, 15 Jul 2026 21:08:12 -0300</lastBuildDate><atom:link href="https://example.org/pt-br/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gire Comigo no Fim do Universo</title>
+      <link>https://example.org/pt-br/games/spin-with-me-at-the-edge-of-the-universe/</link>
+      <pubDate>Wed, 15 Jul 2026 21:08:12 -0300</pubDate>
+      
+      <guid>https://example.org/pt-br/games/spin-with-me-at-the-edge-of-the-universe/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/spin-with-me-at-the-edge-of-the-universe/featured.png" />
+    </item>
+    
+    <item>
+      <title>O Que os Olhos Não Vêem</title>
+      <link>https://example.org/pt-br/games/what-their-eyes-cannot-see/</link>
+      <pubDate>Wed, 15 Jul 2026 21:07:38 -0300</pubDate>
+      
+      <guid>https://example.org/pt-br/games/what-their-eyes-cannot-see/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/what-their-eyes-cannot-see/featured.png" />
+    </item>
+    
+    <item>
+      <title>Ratos no Porão</title>
+      <link>https://example.org/pt-br/games/rats-in-the-basement/</link>
+      <pubDate>Wed, 15 Jul 2026 21:07:08 -0300</pubDate>
+      
+      <guid>https://example.org/pt-br/games/rats-in-the-basement/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/games/rats-in-the-basement/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
