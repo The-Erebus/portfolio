@@ -4,130 +4,134 @@ draft = false
 title = 'A Espada Amaldiçoada'
 +++
 
-In a weapon store illuminated only by the sun outside and just a few candles hanging on the walls, the always smiling store owner greets a party of three that had just entered the store.
+Numa loja de armas iluminada apenas pela luz do sol que brilha pelo lado de fora e por velas penduradas nas paredes pelo lado de dentro, o vendedor sempre sorridente, recebe o grupo de aventureiros que acaba de entrar na loja.
 
-“Welcome, welcome! Make yourself at home. But don’t be too comfortable, things aren’t free.” He says gesturing to his merchandise.
+— Bem vindos! Bem vindos! Sintam-se em casa. Mas não exagerem, as coisas não são de graça. — diz ele apontando à sua mercadoria.
 
-“What are you guys getting? I don’t think there’s anything for me here.” Asks Mirah, the elf mage.
+— O que vocês vão comprar? Acho que não tem nada para mim aqui. — diz Mirah, a elfa maga.
 
-“A bow.” Says Keth, the quiet rogue in the back.
+— Um arco. — diz Keth, o ladino silencioso ao fundo.
 
-“A bow? You can’t use a bow, can you?” Says Terrick, the leader of the party.
+— Um arco? Desde quando você usa arcos? — diz Terrick, o líder do grupo.
 
-“I am willing to learn. Besides, We’ve been too reliant on Mirah. What if she’s unable to cast her spells?”
+— Estou disposto a aprender. Além disso, nós estamos dependendo muito na Mirah. O que você acha que vai acontecer se ela, por alguma razão, não puder usar seus feitiços?
 
-“Easy, I’ll protect her.”
+— Fácil. Eu a protejo.
 
-“That’s not the point, but I like your enthusiasm.”
+— Esse não é o ponto, mas admiro seu entusiasmo.
 
-“I agree…” Mirah says, slightly embarrassed.
+— Eu também… — Mirah diz um pouco sem jeito.
 
-“Well, you do what you think is best. You are our brain after all”. Terrick spots a display case. It’s not unlike the others, but he’s compelled to walk to it.
+— Faça o que achar melhor. Você é o cérebro da nossa equipe afinal. — Terrick nota um mostruário. Não é diferente dos outros, mas o atrai até ele.
 
-“You know those stories where the blade chooses their wielders? I think this one chose me.” He grabs the sword and gives a few swings. “I’m taking it.”
+— Sabe aquelas lendas em que as espadas escolhem seu portador? Eu acho que essa me escolheu. — ele pega a espada e golpeia o ar algumas vezes para testa-la. — Vou leva-la.
 
-“I don’t think this is a good idea.”. Mirah grabs the sword herself, and struggles a little with the weight. She holds it upside down to inspect the handle.
+— Eu não acho uma boa ideia. — Mirah pega a espada das mãos de Terrick, lutando contra o peso. Ela segura a espada de ponta cabeça para ver o seu pomo.
 
-“Why?”
+— Por quê?
 
-Keth approaches holding a hunting bow and a quiver. “Oh, a dark blade. These things are hard to come by.”
+Keth se aproxima, segurando um arco de caça e flechas.
 
-“I think it’s cursed.” Mirah adds.
+— Ah, uma lamina negra. É difícil achar uma dessas.
 
-“Cursed?! This isn’t cursed! Is this sword cursed, mister?”
+— Eu acho que ela é amaldiçoada.
 
-“No.” The store owner responds still smiling.
+— Amaldiçoada? Não, não pode ser. Essa espada aqui é amaldiçoada, senhor? — Terrick grita para o vendedor.
 
-“See?”
+— Não — O vendedor responde com um sorriso.
 
-“Just look at it! There’s a skull on the pommel!” Mirah brings the pommel to Terrick’s face.
+— Viu?
 
-“That could mean anything. I bet it’s a stylistic choice.” Terrick grabs the sword back, and as he does, the mood shifts.
+— Olha pra ela! Tem uma caveira no pomo! — Mira leva o pomo aos olhos de Terrick.
 
-The light are sucked out of the sky, and the world outside turns into nothingness. The flames on the candles hanging on the walls begin to dance in anticipation. The distant sound of footsteps travel through the air and into their frightened ears, closer and closer, until it reaches the front door.
+— Isso pode ser qualquer coisa. Pode ser um toque artístico. — Terrick pega a espada de volta. Logo em seguida, o ar muda.
 
-“Welcome, welcome!” The store owner hides behind the counter. “Make yourself at home. But don’t be too comfortable, things aren’t free.”
+A luz desaparece do céu, o mundo ao redor se torna um vazio. As chamas das velas nas paredes dançam em antecipação. Passos soam pelo ar até os ouvidos do grupo.
 
-“I don’t think he’s a client.” Terrick hides the sword behind his back.
+— Bem vindo! Bem vindo! — O vendedor se esconde debaixo do balcão — Sinta-se em casa, mas não exagere, as coisas não são de graça.
 
-The door opens by itself revealing a slender hooded man. His head almost hits the tall ceiling when he enters. He looks around for a long moment, taking special interest on the collection of swords. Mirah slowly moves behind. The figure takes notice of her staff and whispers something no one can hear. Pulling off his hood, he reveals his skeleton face.
+— Não acho que seja um cliente. — Terrick esconde a espada em suas costas.
 
-“My sword… It’s here…”
+A porta abre sozinha revelando um homem alto encapuzado, sua cabeça quase batendo no teto. Ele olha ao redor por um segundo, mostrando-se bastante interessado na coleção de espadas. Mirah se posiciona atrás de Terrick. O homem nota o cajado da maga e sussurra algo que ninguém consegue ouvir. Ele retira seu capuz, revelando seu rosto esquelético.
 
-“It’s a warlock, Terrick. Give the sword to him…” Mirah whispers.
+— Minha espada… Está aqui.
 
-“Not a chance. Can’t you use one of your spells?”
+— É um bruxo maligno, Terrick. Dê a espada pra ele… — Mirah sussurra.
 
-Mirah does a gesture with her hands, but nothing happens.
+— Sem chance. Não dá pra usar um de seus feitiços?
 
-“I can’t”
+Mirah faz um gesto com suas mãos, mas nada acontece.
 
-“Why?”
+— Não consigo.
 
-“I think he’s blocking my magic.”
+— Por quê?
 
-“He can do that? How’s that fair? Is there anything you can do?”
+— Acho que ele está bloqueando minha mágica.
 
-“Not while he’s holding the spell. I need a distraction.”
+— Dá pra fazer isso? Mas aí não vale. Você consegue fazer alguma coisa?
 
-“Well, stay behind me then.” He looks around. “Where is Keth?”
+— Não enquanto ele estiver mantendo o feitiço. Eu preciso de uma distração.
 
-“I’ll kill every one here if I don’t get my sword back.” The warlock turns towards the two. “You!” Mirah gets closer to Terrick. “What are the two of you whispering about? You wouldn’t happen to have my sword, would you?” Terrick shakes his head. The warlock laughs. “What’s that behind your back, then?”
+— Fique atrás de mim então. — Terrick olha ao seu redor. — Cadê o Keth?
 
-Terrick turns his head to look at the sword, but the frightened face of his friend catches his eyes first. She does her best to hide it, but he sees right through her. Still hiding the sword, he sighs, taking a step forward, then another, until he is face to face with the tall skeleton. He raises his head, and looks deep into the warlock’s eyes.
+— Irei matar a todos se não conseguir minha espada de volta. — o bruxo vira para os dois. — Você! — Mirah se aproxima ainda mais de Terrick. — O que você estão cochichando? Vocês não estariam com minha espada, estariam? — Terrick sacode a cabeça, e o bruxo ri. — O que é isso atrás de você então?
 
-“This is a weapon store, mate. If you want a sword, you’ll have to pay like all others.”
+Terrick olha para trás e nota a feição assustada de sua companheira. Ela da seu melhor para esconder, mas não é o suficiente para enganar alguém que ela conhece a tanto tempo. Segurando a espada, respirando fundo, ele dá um passo pare frente, depois mais um, até que ele se encontra frente à frente com o esqueleto. Terrick levanta a cabeça, e olha direto aos olhos mortos do bruxo.
 
-The skeleton is furious. “Don’t you dare mock me!” He shouts raising his hand and holding the air in front of him. Terrick floats and chokes, but refuses to drop the sword. As his face turns blue, all Mirah can do is watch.
+— Isso aqui é uma loja de armas, cara. Se você quer uma espada, você tem que comprar.
 
-With teary eyes, she holds her staff in front of her, but the skeleton instantly turns his head towards her, and, using the few muscles left on his face, grins maliciously. Mirah shuts her eyes. “Keth, where are you?” She mumbles to herself.
+— Como ousa falar assim comigo! — o bruxo rosna, levantando seu braço direito. Terrick começa a levitar. O bruxo fecha seu punho, e Terrick começa a sufocar, a espada ainda em sua mão.
 
-It’s when all hope seem lost that she hears the sound of an arrow flying. She opens her eyes, and sees the warlock looking out of the window, then to a pile of wooden boxes that weren’t there before. This is the opportunity she was waiting for.
+Com lágrimas nos olhos, Mirah se aproxima segurando fortemente seu cajado. O bruxo vira para ela, e, usando os poucos músculos de sua face, sorri. Mira fecha seus olhos.
 
-While the skeleton is distracted looking for the shooter, the elf girl quickly aims the staff, and whispers. A small pebble comes out of the tip of the staff, growing larger and larger as it flies out, turning into a small boulder. It hits the skeleton on his head, breaking his neck. He cracks it back into place. The spell did some damage, but not enough. But, it was enough to make him release Terrick, who stood ready with the sword in his hands.
+— Keth, agora é seu momento. — ela sussurra para ela mesma.
 
-Terrick lunges. The sword makes contact with the warlock’s sternum, going through without any resistance. They both look equally confused. The momentum makes them both fall. The skeleton, shocked, looks at Terrick and opens his jaw to speak.
+O momento é interrompido pelo som de uma flecha passando entre eles. Mirah abre os olhos e vê o bruxo procurando a origem do som. Apontando o cajado para o bruxo, a elfa sussurra. Uma pequena pedra é lançada da ponta do cajado, crescendo até se tornar uma rocha enorme que atinge o bruxo na cabeça. O impacto é suficiente para quebrar seu pescoço. Terrick cai no chão e prepara seu ataque enquanto o esqueleto se regenera.
 
-“I misjudged you… You are… Worthy… My sword is yours.”
+Terrick avança. Sua espada penetra o peito do bruxo, atravessando sem nenhuma resistência. Ambos caem no chão. O bruxo, surpreso, olha para Terrick e diz:
 
-The light comes back to the sky and back into the room, illuminating the skeleton as it turns to dust. Covered with the remains of his opponent, Terrick stands up victorious.
+— Eu estava errado… A espada te escolheu, não a mim… A partir desse momento, ela é sua.
 
-“We did it! We actually did it! I can’t believe it.” Mirah runs up to Terrick and gives him a big hug. “Oh…” And accidentally covers herself with the dust.
+A luz volta ao redor, o sol iluminando o corpo do bruxo enquanto ele se torna pó. Coberto pelos restos do seu oponente, Terrick levanta vitorioso.
 
-“Sorry about that.” Terrick says.
+— Nós conseguimos! Nós conseguimos de verdade! — Mirah corre até Terrick e lhe dá um grande abraço. — Ah! — e acidentalmente se suja com a poeira.
 
-“That was reckless. Why did you do that?” She punches him on the shoulder.
+— Foi mal. — Terrick diz limpando sua roupa.
 
-“Ouch! Because I trusted you, like I always do. That and I wanted to keep the sword.”
+— Seu idiota! Você quase morreu. Por que você não deu a espada pra ele? E se eu não conseguisse usar meu feitiço? — ela dá um soco no ombro dele.
 
-Keth comes out of hiding and walks up to them. “Huh, guess I need more practice. I’m not joining on the group hug this time, I rather remain clean, but you have my praise. That was impressive. Especially you, Mirah.”
+— Au! É porque eu confio em vocês. E eu queria ficar com a espada.
 
-“I assume the curse is lifted then. Ugh, I hope I get a discount.” Terrick says looking at his weapon.
+— Parece que eu preciso praticar. — Keth diz, saindo das sombras. — Eu não vou te abraçar, prefiro não me sujar. Mas vocês merecem meus elogios. Foi impressionante.
 
-They catch their breath and walk to the counter. The store owner comes out of hiding. “Is he finally gone? Truly Gone?”
+— Imagino que a maldição já era então. Espero que consiga um desconto. — Terrick diz, observando a espada contra à luz.
 
-“I would hope so, he turned to dust. Sorry about the mess, by the way.” Terrick responds.
+O grupo vai até o vendedor que se levanta debaixo do balcão.
 
-“And did I hear that right? He called you worthy, didn’t he?”
+— Ele já foi? — o vendedor pergunta.
 
-“Well, yes. He saw how skilled I am. Though I don’t like to brag.” He says braggingly.
+— Espero que sim. Ele virou pó. Desculpe pela sujeira, falando nisso. — Terrick responde.
 
-“Then, I have something for you.” he pulls out a large wooden box and opens it. There’s a plain looking sword inside it.
+— E eu escutei direito? Ele falou que a espada te escolheu, não foi?
 
-“What’s this?”
+— Bem, sim. Ele deve ter notado o quão forte eu sou.
 
-“It’s a sword. A cursed sword. Only the one deemed worthy by its previous owner can wield it, and since he called you worthy, you can have it.”
+— Ah, então… Só um segundo. — o vendedor pega uma caixa debaixo do balcão. Dentro dela há uma espada que passaria despercebida em qualquer loja.
 
-“But…”
+— O que que é isso?
 
-“I never expected him to actually come back for it. Especially after being dead for over 20 years.”
+— É uma espada amaldiçoada. Ela escolhe seu portador, sendo leal a ele até ela decidir escolher outro portador. E agora ela é sua.
 
-“But… What about this one?”
+— M-mas…
 
-“This one?” He inspects the dark blade. “This is just a ceremonial sword. It’s useless for fighting. I’ve been trying to get rid of it for a long time, but everyone assumes that it’s cursed. You can have it as well if you want.” He hands the sword back.
+— Nunca achei que o seu ultimo portador iria voltar para busca-la. Muito menos depois de morto.
 
-“But there’s a skull on the pommel!” Terrick exclaims. Mirah raises her eyebrow.
+— Mas e essa espada que eu peguei dali?
 
-“It’s a stylistic choice.”
+— Essa aqui? — O vendedor pega a lamina negra e a inspeciona. — É só uma espada ceremonial, inútil para lutas. Estou tentando me livrar dela faz anos, mas todo mundo acha que é uma espada amaldiçoada. Você pode ficar com ela se quiser. De graça.
 
-“Of course it is.”
+— Mas o pomo dela é uma caveira! — exalta Terrick. Mirah olha para ele desacreditada.
+
+— É um toque artístico.
+
+— Claro que é.
